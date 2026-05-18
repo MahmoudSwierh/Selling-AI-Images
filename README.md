@@ -1,9 +1,13 @@
 # Project Overview
 
-* This project was made in a month in the last quarter of 2024 to automate and enhance the workflow of selling AI images in Adobe Stock and make it possible to upload hundreds of high-quality images daily. 
+* This project was made in a month in the last quarter of 2024 to automate and enhance the workflow of selling AI images on Adobe Stock, making it possible to upload hundreds of high-quality images daily.
 
 * [Click here to visit my Adobe Stock Portfolio.](https://stock.adobe.com/contributor/212320367/Mahmoud-Abusweireh)
 
-The first script analyses each generated image, gives it an aesthetic score and deletes low-scoring ones. The second script is a GUI program that displays the top-scoring images first, then lets me use keyboard shortcuts to quickly review each image and delete low-quality images and those with visible defects. The last script generates metadata (title, keywords and category) for each image using the Claude 3.5 Haiku API, then saves the results as a CSV file for bulk upload to Adobe Stock.
+The first script analyses each generated image, gives it an aesthetic score and deletes low-scoring ones.
 
-Contact info: +972597208529 | mahmoudswierh@gmail.com
+The second script is a GUI program that displays the top-scoring images first, then lets me use keyboard shortcuts to quickly review each image and delete low-quality images and those with visible defects.
+
+The last script generates metadata (title, keywords and category) for each image using the Claude 3.5 Haiku API, then saves the results as a CSV file for bulk upload to Adobe Stock.
+
+Contact Info: mahmoudswierh@gmail.com
